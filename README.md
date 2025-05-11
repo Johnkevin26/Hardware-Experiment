@@ -19,15 +19,3 @@
 
 # PSK
 ![WhatsApp Image 2025-05-07 at 23 11 08_be771afd](https://github.com/user-attachments/assets/a4c71a0c-6150-4f80-aecc-e651636a2ce4)
-
-# HUFFMAN CODING
-![WhatsApp Image 2025-05-07 at 23 14 54_db423cf2](https://github.com/user-attachments/assets/6528250a-1b60-410c-89b6-7666844909d1)
-![WhatsApp Image 2025-05-07 at 23 15 01_7179aeeb](https://github.com/user-attachments/assets/4bf4ac9c-bf66-4e6e-8644-8285509475e5)
-![WhatsApp Image 2025-05-07 at 23 15 01_7887f856](https://github.com/user-attachments/assets/e87609ae-6df1-4e5e-b3f6-0f7d8e7f52d7)
-
-# Line Coding 
-![WhatsApp Image 2025-05-07 at 23 11 06_51bdef59](https://github.com/user-attachments/assets/aa18377b-f500-4ad8-88f0-8fb50efd699a)
-![WhatsApp Image 2025-05-07 at 23 11 06_dfc958f5](https://github.com/user-attachments/assets/943985b8-0df2-47a4-a13a-263d7e79e8cf)
-![WhatsApp Image 2025-05-07 at 23 11 06_5a7786c6](https://github.com/user-attachments/assets/0a1e3221-866f-475a-b0b9-ec63cc8eea9a)
-
-Attach the output graph
