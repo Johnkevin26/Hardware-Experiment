@@ -1,21 +1,19 @@
 # Hardware-Experiment
-# Ideal sampling
-![WhatsApp Image 2025-05-07 at 23 11 06_69eb347a](https://github.com/user-attachments/assets/0fa8c289-4f91-4b0a-a36c-69e59ce78890)
-
-# Natural Sampling
-![WhatsApp Image 2025-05-07 at 23 11 07_ce9763cc](https://github.com/user-attachments/assets/5e9fa7bf-0fd5-48d9-b4ec-8f281fc88514)
-
-# PCM
-![WhatsApp Image 2025-05-07 at 23 11 07_1df8b2bc](https://github.com/user-attachments/assets/c7e577cb-1ae1-4030-846f-c76450b3a311)
-
-# DM
-![WhatsApp Image 2025-05-07 at 23 11 07_3822aaba](https://github.com/user-attachments/assets/dc8f2279-2b10-4bca-9367-eb854ce9a8e4)
-
-# ASK
-![WhatsApp Image 2025-05-07 at 23 11 07_2a84de98](https://github.com/user-attachments/assets/6723518e-e51a-4c76-906a-896aab03c8f9)
-
-# FSK
-![WhatsApp Image 2025-05-07 at 23 11 08_2c839007](https://github.com/user-attachments/assets/a66e5488-6a16-4559-9be8-853c67cdc430)
-
-# PSK
-![WhatsApp Image 2025-05-07 at 23 11 08_be771afd](https://github.com/user-attachments/assets/a4c71a0c-6150-4f80-aecc-e651636a2ce4)
+# delta modulation 
+![delta modulation](https://github.com/user-attachments/assets/c2fef7bf-6312-4efc-a2ea-f8a0e0ef6504)
+# ideal sampling
+![ideal sampling](https://github.com/user-attachments/assets/e1f6697f-6cd2-4eb2-88e3-313c5fcca547)
+# phase shift
+![phase shift keying](https://github.com/user-attachments/assets/4affd990-12db-4a71-a285-90307a851219)
+# fsk
+![fsk](https://github.com/user-attachments/assets/9a99e7f1-f507-46e1-acb6-9170def3b64f)
+# flat top
+![flat-top](https://github.com/user-attachments/assets/3f83e3d4-ab35-4943-b58c-26727fd7781e)   
+# amplitude shift 
+![amplitude shift keying](https://github.com/user-attachments/assets/64892340-d3c0-46ec-a82d-75b4cc41a7d3)
+# pulse code modulation
+![pulse code modulation](https://github.com/user-attachments/assets/c139ee7d-fc7d-4b15-897c-4ffc4a1037ad)
+# line coding
+![lins coding](https://github.com/user-attachments/assets/ddf52414-b013-4bf4-bb44-20d0e3051f27)
+# natural sampling
+![natural sampling](https://github.com/user-attachments/assets/6ee2b179-778d-4cb9-bf8a-5f7a0523057d)
